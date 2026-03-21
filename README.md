@@ -13,13 +13,13 @@ This project builds an ML-based system to improve accuracy, speed, and fairness.
 📊 Dataset
 
 Contains applicant-level features such as:
-Income (Applicant + Co-applicant)
-Credit Score
-Loan Amount & Term
-Employment Status
-Debt-to-Income Ratio
-Savings & Collateral Value
-Target: Loan Approved (1/0)
+  Income (Applicant + Co-applicant)
+  Credit Score
+  Loan Amount & Term
+  Employment Status
+  Debt-to-Income Ratio
+  Savings & Collateral 
+  ValueTarget: Loan Approved (1/0)
 
 ⚙️ Approach
 Data preprocessing (missing values, encoding, scaling)
