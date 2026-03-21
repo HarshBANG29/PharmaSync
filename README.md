@@ -84,5 +84,5 @@ Each row represents a loan applicant with features such as:
 
 ---
 
-## 📁 Project Structure
+
 
